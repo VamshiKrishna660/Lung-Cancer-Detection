@@ -1,4 +1,4 @@
-# Lung-Cancer-Detection
+# Lung-Cancer-Detector
 ## Cancer Cell Detection & Classification using Hybrid Neural Network (CCDC-HNN)
 
 Lung cancer is one of the most life-threatening diseases worldwide, primarily due to late-stage detection that limits treatment effectiveness. Early and accurate diagnosis significantly improves patient survival rates. Traditional diagnostic methods, such as manual CT scan evaluations and basic image processing algorithms, often lack precision and are time-consuming, hindering early-stage detection.
